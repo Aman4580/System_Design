@@ -1,0 +1,14 @@
+// Solid principle
+// S: Single Responsibility principle
+// O: Open-Closed principal
+// L: Liskov Substitution principle
+// I: Interface Segmented Principle
+// D: Dependency Inversion Principle
+// Benefits of solid principal
+// Advantages of following these Principles:
+// 1.Help us to write better code:
+// 2.Avoid Duplicate code
+// 3.Easy to maintain
+// 4.Easy to understand
+// 5.Flexible software
+// 6.Reduce Complexity
